@@ -1,0 +1,13 @@
+---
+title: "HelloWorld"
+author: "Tagarit Ariza"
+date: "Marzo de 2016"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
